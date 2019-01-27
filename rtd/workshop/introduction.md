@@ -1,3 +1,5 @@
+## For starters
+
 With GitHub, you can create a personal website using GitHub Pages.  Bring your laptop to the workshop.  All you need to start is [a GitHub account](https://github.com/join?source=header-home).
 
 Welcome to our GitHub Pages Tutorial!
@@ -8,7 +10,7 @@ This tutorial uses the [jekyll-academic template](https://github.com/NCSU-Librar
 
 This template was developed by [NCSU Libraries](https://www.lib.ncsu.edu/) and is tailored specifically for use within the academic community.
 
-## Club Contributors
+## Contributors
 
 - [Ted Laderas](mailto:laderast@ohsu.edu)
 - [Robin Champieux](mailto:champieu@ohsu.edu)
@@ -45,8 +47,6 @@ You don't need to know how to code or know HTML to setup a GitHub Page.  It woul
 
 - A short bio
 - A headshot (or another image that represents your professional interests)
-
-## Getting started
 
 The workshop starts with first steps [on the next page here](../first-steps).
 

@@ -53,7 +53,7 @@ After you have edited your `_config.yml` file, click the green **Commit changes*
 
 You're ready to go!  Check out your initialized website at https://USERNAME.github.io. Next we will [add a bio](../your-bio)!
 
-## A little bit about Jekyll
+## Jekyll background
 
 Jekyll is what's known as a static site generator. It will build a website from simple text files that are in Markdown.  Markdown is much easier to work with, since you don't have to worry about adding HTML tags and accidentally breaking it.
 
