@@ -10,11 +10,11 @@ This template was developed by [NCSU Libraries](https://www.lib.ncsu.edu/) and i
 
 ## Club Contributors
 
-- [Ted Laderas](laderast@ohsu.edu)
-- [Robin Champieux](champieu@ohsu.edu)
-- [Eric Leung](leunge@ohsu.edu)
-- [Eric Earl](earl@ohsu.edu)
-- [Marijane White](whimar@ohsu.edu)
+- [Ted Laderas](mailto:laderast@ohsu.edu)
+- [Robin Champieux](mailto:champieu@ohsu.edu)
+- [Eric Leung](mailto:leunge@ohsu.edu)
+- [Eric Earl](mailto:earl@ohsu.edu)
+- [Marijane White](mailto:whimar@ohsu.edu)
 
 ## What is GitHub Pages?
 
@@ -48,6 +48,6 @@ You don't need to know how to code or know HTML to setup a GitHub Page.  It woul
 
 ## Getting started
 
-The workshop starts with first steps [on the next page here](workshop/first-steps).
+The workshop starts with first steps [on the next page here](../first-steps).
 
 During the workshop, be sure to use your sticky notes as a flag if you're stuck and one of the facilitators will help you.

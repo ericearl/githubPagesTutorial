@@ -51,7 +51,7 @@ After you have edited your `_config.yml` file, click the green **Commit changes*
 
 ## Look at your new website!
 
-You're ready to go!  Check out your initialized website at https://USERNAME.github.io. Next we will [add a bio](workshop/your-bio)!
+You're ready to go!  Check out your initialized website at https://USERNAME.github.io. Next we will [add a bio](../your-bio)!
 
 ## A little bit about Jekyll
 
