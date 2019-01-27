@@ -1,10 +1,10 @@
-site_name: OHSU BioData Club GitHub Pages Tutorial
+site_name: BioData Club GitHub Pages Tutorial
 theme: material
 plugins:
     - search
 docs_dir: rtd
 nav:
-    - What is OHSU BioData Club?: index.md
+    - What is BioData Club?: index.md
     - The Workshop:
         - Introduction: workshop/introduction.md
         - First Steps: workshop/first-steps.md
