@@ -2,10 +2,10 @@
 
 The ordered shortlist/cheatsheet for the workshop:
 
-+ Fork and rename the repo
-+ Edit `_config.yml`
-+ Add a Bio to `index.md`
-+ Upload new bio photo `images/bio-photo.jpg`
+- Fork and rename the repo
+- Edit `_config.yml`
+- Add a Bio to `index.md`
+- Upload new bio photo `images/bio-photo.jpg`
 
 ## Useful Links
 

@@ -1,62 +1,51 @@
-## Fork the repo(sitory) from GitHub
+## GitHub account
 
-Log into your GitHub account.  Now go to the website repo: https://github.com/BioData-Club/jekyll-academic and click the **Fork** button on the top right of the webpage.
+Skip this step if you have already setup your GitHub account
 
-When we fork we're copying the files into our own repository.  We'll use the copy as the building block for your new website.
+- In a web browser, navigate to GitHub.com
+- Fill Out Username, Email Address and Password
+- Click Sign up for GitHub button
+- Click the Finish Sign Up button
 
-## Rename the repo
+Make a note of the username that you create, as you will be required to use it in setting up your GitHub pages repository.
 
-Now click the **Settings** tab on your repository. Change your repository name to USERNAME.github.io, where USERNAME is your GitHub account name.
+## Verify email address
 
-## Editing the name of your webpage
+- Navigate to the email account you used to sign up
+- Verify your email address by clicking on the “Verify email address” button in the email you received from GitHub
 
-The first step to personalizing your website is to edit the information in the YAML file.  This is a configuration file where some important settings for your site are stored.
+## Fork the repository from GitHub
 
-You'll find the `_config.yml` file in the root (parent) level of your repo. In GitHub, click on the `_config.yml` file.  To edit it click on the pencil button on the right.
+Log into your GitHub account.  Now go to the website repository: [https://github.com/BioData-Club/jekyll-academic](https://github.com/BioData-Club/jekyll-academic) and click the **Fork** button on the top right of the webpage.
 
-Update the *title*, *name*, *bio*, *email*, and the social media fields you want (such as *twitter*, *linkedin*) with your information.
+When you fork you're copying the files into your own repository.  You'll use the copy as the building block for your new website.
 
-Just make you that you don't modify anything below `#DO NOT EDIT BEYOND THIS POINT`.
+## Rename the repository
 
-Here's an example `_config.yml` file. Don't worry about the avatar and the logo file for right now. # symbols are the beginning of comments.  The text to the right of any **#** symbol is ignored.  
+Now click the **Settings** tab on your repository. Change your repository name to **USERNAME.github.io** (where **USERNAME** is your exact GitHub account name).
 
-```
-# Site wide configuration
+## First edits to your webpage
 
-title: Academic Website of Ted Laderas
-locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+Let's edit the information in the `_config.yml` YAML file.  This is a configuration file where important settings for your site are stored.
 
-# Enter the following platform usernames if you would like for them to appear on your site.
-owner:
-  name: Ted Laderas
-  avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
-  # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    scholar: #id
-```
+You'll find the `_config.yml` YAML file in the root (parent) level of your repository.  In GitHub, click on the `_config.yml` YAML file.  To edit it click on the pencil button on the top right of the preview window.
 
-After you have edited your `_config.yml` file, click the green **Commit changes** button at the bottom of the page, which will save the file changes in your repository.
+Start by updating the:
 
-## Look at your new website!
+- **title** for a new website title
+- **name** for your name to appear on the website
+- **bio** for a short blurb version of your bio that appears below your picture
+- **email** for your email to appear on the front page
+- Social media fields you want (such as **twitter** or **linkedin**) for the icons to those sites to become links to your social media profiles
 
-You're ready to go!  Check out your initialized website at https://USERNAME.github.io. Next we will [add a bio](../your-bio)!
+**Don't modify anything below** `#DO NOT EDIT BEYOND THIS POINT`.
 
-## Jekyll background
+The text to the right of any `#` symbol in a YAML file is ignored.
 
-Jekyll is what's known as a static site generator. It will build a website from simple text files that are in Markdown.  Markdown is much easier to work with, since you don't have to worry about adding HTML tags and accidentally breaking it.
+## Commit changes
 
-The other nice thing about Jekyll is that it will integrate things like Google Analytics, tags, and search into your website structure.
+After you have edited your `_config.yml` YAML file, click the green **Commit changes** button at the bottom of the page, which will save the file changes in your repository.  **Commit** is GitHub's way of saying **Save**.
 
-Jekyll is built into GitHub, so you just need to edit the files in your repository to have GitHub automatically build the webpage.
+## Look at your new website
+
+Check out your initialized website at https://USERNAME.github.io (where USERNAME is your GitHub username).  Next we will [add a full bio](../your-bio)!
