@@ -16,25 +16,31 @@ Make a note of the username that you create, as you will be required to use it i
 
 ## Fork the repository from GitHub
 
-Log into your GitHub account.  Now go to the website repository: [https://github.com/BioData-Club/jekyll-academic](https://github.com/BioData-Club/jekyll-academic) and click the **Fork** button on the top right of the webpage.
+Forking on GitHub means you're copying a repository's files into your own repository of the same name.  You'll use the copy as the building block for your new website.
 
-When you fork you're copying the files into your own repository.  You'll use the copy as the building block for your new website.
+- Log into your GitHub account
+- Go to the BioData Club's jekyll-academic repository: [https://github.com/BioData-Club/jekyll-academic](https://github.com/BioData-Club/jekyll-academic)
+- Click the **Fork** button on the top right of the webpage
 
 ## Rename the repository
 
-Now click the **Settings** tab on your repository. Change your repository name to **USERNAME.github.io** (where **USERNAME** is your exact GitHub account name).
+- Click the **Settings** tab on your repository
+- Change your repository name to **USERNAME.github.io** (where **USERNAME** is your exact GitHub account name)
 
 ## First edits to your webpage
 
-Let's edit the information in the `_config.yml` YAML file.  This is a configuration file where important settings for your site are stored.
+Let's edit the information in the `_config.yml` YAML file.
 
-You'll find the `_config.yml` YAML file in the root (parent) level of your repository.  In GitHub, click on the `_config.yml` YAML file.  To edit it click on the pencil button on the top right of the preview window.
+- Click on the `_config.yml` YAML file
+- Click on the pencil button on the top right of the preview window
+
+This is a configuration file where important settings for your site are stored.  You'll find the `_config.yml` YAML file in the root (parent) level of your repository.
 
 Start by updating the:
 
 - **title** for a new website title
 - **name** for your name to appear on the website
-- **bio** for a short blurb version of your bio that appears below your picture
+- **bio** for a short sentence version of your bio that appears below your picture
 - **email** for your email to appear on the front page
 - Social media fields you want (such as **twitter** or **linkedin**) for the icons to those sites to become links to your social media profiles
 
@@ -48,4 +54,4 @@ After you have edited your `_config.yml` YAML file, click the green **Commit cha
 
 ## Look at your new website
 
-Check out your initialized website at https://USERNAME.github.io (where USERNAME is your GitHub username).  Next we will [add a full bio](../your-bio)!
+Check out your new GitHub Page at https://USERNAME.github.io (where USERNAME is your GitHub username).  Next we will [add a full bio](../your-bio)!

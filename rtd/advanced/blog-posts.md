@@ -18,11 +18,20 @@ Text for your post goes here.
 ```
 
 This is a great opportunity to practice some Markdown!
-### Such as headers
+
+## Like Headers
 
 and **bolding**
 
-* and lists
+- and lists
+
+```
+## Like Headers
+
+and **bolding**
+
+- and lists
+```
 
 Note there's lots of fields you can change: `title`, `excerpt`, `tags`, and `category`. `category` is the most important field, since your posts can either be a `presentation` or a `blog` depending on this field.
 

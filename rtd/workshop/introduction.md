@@ -1,6 +1,6 @@
 ## To start
 
-With GitHub, you can create a personal website using GitHub Pages.  Bring your laptop to the workshop.  All you need to start is [a GitHub account](https://github.com/join?source=header-home).
+With GitHub, you can create a personal website using GitHub Pages.  Bring a laptop to the workshop.  All you need to start is [a GitHub account](https://github.com/join?source=header-home).
 
 Welcome to the BioData Club GitHub Pages Tutorial!
 
@@ -52,7 +52,7 @@ GitHub is a highly dependable webhost, and you get one personal webpage account 
 
 Because GitHub pages is compatible with Markdown, we'll be using Markdown formatting to build our webpage.
 
-## Jekyll background
+## What is Jekyll?
 
 Jekyll is what's known as a static site generator. It will build a website from simple text files that are in Markdown.  Markdown is much easier to work with, since you don't have to worry about adding HTML tags and accidentally breaking it.
 

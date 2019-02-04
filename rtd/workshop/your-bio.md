@@ -6,4 +6,4 @@ Robin's bio and project list links out to other websites.  It's easy to do this 
 [link to Google](https://www.google.com)
 ```
 
-Try updating your bio and adding some links to your `index.md` file, such as a recently published paper or public projects.  Click the **Commit Your Changes** button when you're done.
+Try updating your bio and adding some links to your `index.md` file, such as a recently published paper or public projects.  Click the **Commit changes** button when you're done.
