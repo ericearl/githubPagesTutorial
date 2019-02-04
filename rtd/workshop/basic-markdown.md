@@ -10,7 +10,7 @@ Reload your website to make sure that the changes worked. It sometimes takes a l
 
 ## More Markdown
 
-A full tutorial about writing markdown can be found here: [The Magic of Markdown](http://laderast.github.io/magic-of-markdown/)
+A full tutorial about writing markdown can be found here: [The Magic of Markdown by Ted Laderas](http://laderast.github.io/magic-of-markdown/)
 
 ## What is Markdown?
 
