@@ -1,8 +1,8 @@
-## GitHub Pages Tutorial
+# GitHub Pages Tutorial
 
-### Ted Laderas, Robin Champieux, Eric Leung, Eric Earl, and Marijane White
+Ted Laderas, Robin Champieux, Eric Leung, Eric Earl, and Marijane White
 
-Welcome to the GitHub Pages Tutorial!
+## Welcome to the GitHub Pages Tutorial!
 
 With GitHub, you can create a personal website using the fun world of GitHub Pages. Bring your laptop and we'll have an adventure!
 

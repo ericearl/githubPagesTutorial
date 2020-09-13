@@ -1,18 +1,28 @@
 site_name: BioData Club GitHub Pages Tutorial
+
 theme: material
+
 plugins:
     - search
-docs_dir: rtd
-nav:
-    - What is BioData Club?: index.md
+
+docs_dir: docs
+
+pages:
+    - Lesson Plan: index.md
+
     - The Workshop:
+        - 1 - Motivation for Self-Promotion: lessons/1.md
+        - 2 - Publishing a GitHub Page: lessons/2.md
+        - 3 - The Magic of Markdown: lessons/3.md
+        - 4 - Best Practices for Sharing & Writing a Bio: lessons/4.md
+
+    - Extra Topics:
         - Introduction: workshop/introduction.md
         - First Steps: workshop/first-steps.md
         - Your Bio: workshop/your-bio.md
         - Basic Markdown: workshop/basic-markdown.md
         - Uploading a Bio Photo: workshop/bio-photo.md
         - Tips & Tricks: workshop/tips-tricks.md
-    - Advanced Topics:
         - Adding a menu item: advanced/add-menu.md
         - Aesthetics & Appearance: advanced/aesthetics.md
         - Linking External Photos: advanced/external-photos.md
